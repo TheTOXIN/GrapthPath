@@ -1,0 +1,18 @@
+﻿  main.cpp
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(79): warning C4101: 'mrk': unreferenced local variable
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(300): warning C4129: 'm': unrecognized character escape sequence
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(303): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(303): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(304): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(304): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(305): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(305): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(306): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(306): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(307): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(307): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(308): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(308): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+e:\developer\с++\проги\grapthpath\grapthpath\grapthpath\main.cpp(372): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GrapthPath.vcxproj -> E:\DEVELOPER\С++\ПРОГИ\GrapthPath\GrapthPath\Debug\GrapthPath.exe
+  GrapthPath.vcxproj -> E:\DEVELOPER\С++\ПРОГИ\GrapthPath\GrapthPath\Debug\GrapthPath.pdb (Full PDB)
